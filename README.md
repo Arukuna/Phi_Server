@@ -16,3 +16,5 @@ C:\Users\おまえのPCのなまえ\AppData\Roaming\\.minecraft\mods <br>
 
 4. マイクラランチャー起動して、左中段下のバージョン選択でforge ってやつ選択して起動したら遊べるよ<br>
 ※バージョンは1.20.1だからね。<br>
+
+# Mod追加 （9/18） <br>
