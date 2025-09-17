@@ -18,3 +18,6 @@ C:\Users\おまえのPCのなまえ\AppData\Roaming\\.minecraft\mods <br>
 ※バージョンは1.20.1だからね。<br>
 
 # Mod追加 （9/18） <br>
+mods_3.zip 追加してます。<br>
+内容はチャンクローダーとチェスト整理のModです。<br>
+※チャンクローダーは負荷かかるので使いすぎないでね。
